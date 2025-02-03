@@ -6,6 +6,8 @@
     
 <p align="center">
             <br/>
+    ![Profile Views](https://komarev.com/ghpvc/?username=uzair-shakeel&color=blue)
+
             <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzair-shakeel&theme=tokyonight">
             <br/>
